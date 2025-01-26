@@ -1,9 +1,7 @@
 🤖 AI-Powered Cryptocurrency Trading Bot
 Advanced algorithmic trading system integrating machine learning, sentiment analysis, and real-time execution
 
-Python
-TensorFlow
-License
+
 
 🚀 Key Features
 LSTM Neural Networks for price prediction
